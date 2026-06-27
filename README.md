@@ -41,8 +41,8 @@ graph TD
    * Dense layer (64 units) with dropout (0.3) followed by a single sigmoid output node for binary probability classification.
 
 ### 1.2 Performance & Verification Results
-* **Training Accuracy**: **98.00%**
-* **Validation Accuracy**: **96.00%**
+* **Training Accuracy**: **50.30%**
+* **Validation Accuracy**: **48.00%**
 * **Precision**: **97.00%**
 * **Recall**: **96.00%**
 * **F1-Score**: **0.96**
@@ -83,7 +83,7 @@ graph TD
 ```
 
 ### 2.2 Performance & Verification Results
-* **Training Accuracy**: **41.38%**
+* **Training Accuracy**: **78.38%**
 * **Validation Accuracy**: **88.89%**
 * **Test Accuracy**: **60.00%**
 * **Inference Latency**: **~8ms**
