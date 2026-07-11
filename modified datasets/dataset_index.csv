@@ -1,0 +1,61 @@
+kepid,label,file
+10797460,transit,dataset/10797460.npz
+10797460,transit,dataset/10797460.npz
+10811496,transit,dataset/10811496.npz
+10848459,stellar_eclipse,dataset/10848459.npz
+10854555,transit,dataset/10854555.npz
+10872983,transit,dataset/10872983.npz
+10872983,transit,dataset/10872983.npz
+10872983,transit,dataset/10872983.npz
+6721123,stellar_eclipse,dataset/6721123.npz
+10910878,transit,dataset/10910878.npz
+11446443,transit,dataset/11446443.npz
+10666592,transit,dataset/10666592.npz
+10419211,stellar_eclipse,dataset/10419211.npz
+10464078,stellar_eclipse,dataset/10464078.npz
+10480982,stellar_eclipse,dataset/10480982.npz
+10485250,stellar_eclipse,dataset/10485250.npz
+10583180,stellar_eclipse,dataset/10583180.npz
+2306756,stellar_eclipse,dataset/2306756.npz
+11463211,centroid_offset,dataset/11463211.npz
+11465813,stellar_eclipse,dataset/11465813.npz
+11493732,stellar_eclipse,dataset/11493732.npz
+3246984,centroid_offset,dataset/3246984.npz
+12459725,Ephemeris match,dataset/12459725.npz
+3554600,centroid_offset,dataset/3554600.npz
+3836375,centroid_offset,dataset/3836375.npz
+3838486,centroid_offset,dataset/3838486.npz
+5283542,centroid_offset,dataset/5283542.npz
+5649215,centroid_offset,dataset/5649215.npz
+8180063,centroid_offset,dataset/8180063.npz
+8256049,centroid_offset,dataset/8256049.npz
+9166870,centroid_offset,dataset/9166870.npz
+10485069,not_transit,dataset/10485069.npz
+3560301,not_transit,dataset/3560301.npz
+6209637,unlabeled,dataset/6209637.npz
+3235672,not_transit,dataset/3235672.npz
+3344419,not_transit,dataset/3344419.npz
+11494130,not_transit,dataset/11494130.npz
+8607720,not_transit,dataset/8607720.npz
+11607193,unlabeled,dataset/11607193.npz
+6032981,not_transit,dataset/6032981.npz
+5964985,unlabeled,dataset/5964985.npz
+3003992,Ephemeris match,dataset/3003992.npz
+10743597,unlabeled,dataset/10743597.npz
+3557493,Ephemeris match,dataset/3557493.npz
+10015516,unlabeled,dataset/10015516.npz
+3557341,not_transit,dataset/3557341.npz
+2157247,unlabeled,dataset/2157247.npz
+10223616,not_transit,dataset/10223616.npz
+1722276,not_transit,dataset/1722276.npz
+10268907,Ephemeris match,dataset/10268907.npz
+10153827,unlabeled,dataset/10153827.npz
+2720309,unlabeled,dataset/2720309.npz
+3340070,unlabeled,dataset/3340070.npz
+6153201,Ephemeris match,dataset/6153201.npz
+7284688,unlabeled,dataset/7284688.npz
+10748393,Ephemeris match,dataset/10748393.npz
+5308663,Ephemeris match,dataset/5308663.npz
+11752908,Ephemeris match,dataset/11752908.npz
+5529738,Ephemeris match,dataset/5529738.npz
+6507427,Ephemeris match,dataset/6507427.npz

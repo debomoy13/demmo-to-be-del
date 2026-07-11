@@ -1,0 +1,5 @@
+# Ignore files with these extensions
+*.npz
+*.pt
+*.ipynb_checkpoints
+.env
